@@ -17,6 +17,10 @@
 </div>
   
   ## 
+ 
+<div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/paulozy/github-readme-stats)
+</div>
   
  ### 📇 Contato via
   
