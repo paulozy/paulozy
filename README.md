@@ -1,6 +1,6 @@
 ### Olá, eu sou Paulo 👋
 
-- 🔭 Atualmente trabalho com Analise e Suporte de TI
+- 🔭 Atualmente trabalho com Analista de Suporte Jr
 - 🌱 Estou estudando JavaScript
 
 ##
