@@ -18,9 +18,7 @@
   
   ## 
  
-<div>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulozy&repo=batery)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
  ### 📇 Contato via
   
