@@ -1,7 +1,7 @@
 ### Olá, eu sou Paulo 👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte Jr
-- 🌱 Estou estudando JavaScript
+- 🔭 Desenvolvedor BackEnd na LubySoftware.
+- 🌱 Estou estudando desenvolvimento back-end.
 
 ##
 
