@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/paulo-ricardo-22722b1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pa.aabreu18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/opaulinhof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCgs5WLFPpu3GiG1-3SDRWGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://paulo-abreu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Meu Site-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCgs5WLFPpu3GiG1-3SDRWGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
+  <a href="https://paulo-abreu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Meu Site-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
 </div
   
