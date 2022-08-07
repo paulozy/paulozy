@@ -1,33 +1,42 @@
-### Olá, eu sou Paulo 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🔭 Desenvolvedor BackEnd na LubySoftware.
-- 🌱 Estou estudando desenvolvimento back-end.
+<p align="left"> 
+  Olá pessoas, me chamo Paulo Abreu e atualmente sou estagiário em desenvolvimento <b>Backend</b> na @LubySoftware, 
+  amo criar softwares, api's. Também curto me aventurar no mundo do <b>Frontend</b> e sou apaixonado por tecnologia.
+</p>
 
-##
+<p align="left">
+  🦄 Linguagens: <strong>Typescript && Javascript</strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: <strong>NodeJs, Express, NestJs, AdonisJs, Docker e Insomnia</strong>
+</p>
+
+<p align="left">
+  💌 Você pode me encontrar por aqui: ⤵️
+</p>
+
+<div>
+ <a href = "mailto:pa.aabreu18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-abreu-santana/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/opaulinhof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
+</div>  
+
+## 
  <div>
   <a href="https://github.com/paulozy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulozy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozy&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Paulo-NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Paulo-ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</div>
-  
-  ## 
- 
- <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulozy&repo=batery)](https://github.com/anuraghazra/github-readme-stats)-->
-  
- ### 📇 Contato via
-  
-  
-<div>
-  <a href="https://www.linkedin.com/in/paulo-ricardo-22722b1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pa.aabreu18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/opaulinhof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCgs5WLFPpu3GiG1-3SDRWGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
-  <a href="https://paulo-abreu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Meu Site-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
-</div
-  
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.glassdoor.com/sqll/3607975/luby-software-squareLogo-1658250039166.png"/>](https://luby.com.br/)
+
+**Backend Development Intern** \
+[**Luby Software**](https://luby.com.br/) • Half-time \
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs`, `Docker`\
+<br/>
+
