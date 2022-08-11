@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NodeJs, Express, NestJs, AdonisJs, Docker e Insomnia</strong>
+  💼 Ferramentas: <strong>NodeJs, Express, NestJs, Serverless & Docker</strong>
 </p>
 
 <p align="left">
@@ -37,6 +37,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Backend Development Intern** \
 [**Luby Software**](https://luby.com.br/) • Half-time \
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs`, `Docker`\
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs`, `Serverless` & `Docker`\
 <br/>
 
