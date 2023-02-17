@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá pessoas, me chamo Paulo Abreu e atualmente sou estagiário em desenvolvimento <b>Backend</b> na @LubySoftware, 
+  Olá pessoas, me chamo Paulo Abreu e atualmente sou Desenvolvedor <b>Backend</b> Trainee na @LubySoftware, 
   amo criar softwares, api's. Também curto me aventurar no mundo do <b>Frontend</b> e sou apaixonado por tecnologia.
 </p>
 
