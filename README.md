@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Typescript && Javascript</strong>
+  🦄 Linguagens: <strong>Typescript, Javascript && Go Lang</strong>
 </p>
 
 <p align="left">
@@ -35,7 +35,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.glassdoor.com/sqll/3607975/luby-software-squareLogo-1658250039166.png"/>](https://luby.com.br/)
 
-**Backend Development Trainee** \
+**Backend Developer** \
 [**Luby Software**](https://luby.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs`, `Serverless` & `Docker`\
 <br/>
