@@ -1,16 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá pessoas, me chamo Paulo Abreu e atualmente sou Desenvolvedor <b>Backend</b> Trainee na @LubySoftware, 
-  amo criar softwares, api's. Também curto me aventurar no mundo do <b>Frontend</b> e sou apaixonado por tecnologia.
+  Olá, me chamo Paulo Abreu. Sou Desenvolvedor Fullstack 🚀 <br>
+  
+  Apaixonado e habilidoso com uma sólida experiência em Node.js, React.js, TypeScript, Golang, AWS, Microserviços e Docker.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Typescript, Javascript && Go Lang</strong>
+  🦄 Linguagens: <strong>Typescript, Javascript && Golang</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NodeJs, Express, NestJs, Serverless & Docker</strong>
+  💼 Ferramentas: <strong>NodeJs, Express, NestJs, React.js, Serverless & Docker</strong>
 </p>
 
 <p align="left">
