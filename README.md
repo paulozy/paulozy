@@ -24,13 +24,6 @@
 <a href="https://instagram.com/opaulinhof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
 
-## 
- <div>
-  <a href="https://github.com/paulozy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulozy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozy&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
