@@ -27,7 +27,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.glassdoor.com/sqll/3607975/luby-software-squareLogo-1658250039166.png"/>](https://luby.com.br/)
+[<img align="left" height="94px" alt="Warpnet" src="https://luby.com.br/wp-content/uploads/elementor/thumbs/transformacao-digital-luby-logo-oficial-1-e1688569421772-q8yzkgz092cmr83q8i28xin8efgzkrtc8glxycjjcw.png"/>](https://luby.com.br/)
 
 **Backend Developer** \
 [**Luby Software**](https://luby.com.br/) • Full-time \
