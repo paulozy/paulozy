@@ -27,6 +27,14 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://mlv2vql2hzlv.i.optimole.com/w:auto/h:auto/q:mauto/https://www.enacom.com.br/wp-content/uploads/2021/01/Logo_Enacom.svg"/>](https://www.enacom.com.br)
+
+**Backend Developer** \
+[**Enacom**](https://www.enacom.com.br) • Full-time \
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs` & `Docker`\
+<br/>
+
+
 [<img align="left" height="94px" alt="Warpnet" src="https://luby.com.br/wp-content/uploads/elementor/thumbs/transformacao-digital-luby-logo-oficial-1-e1688569421772-q8yzkgz092cmr83q8i28xin8efgzkrtc8glxycjjcw.png"/>](https://luby.com.br/)
 
 **Backend Developer** \
