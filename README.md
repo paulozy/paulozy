@@ -25,7 +25,13 @@
 </div>  
 
 ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão abaixo você encontrará minhas experiências de trabalho mais recente:
+
+[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
+**Backend Developer** \
+[**Housi**](https://housi.com/) • Full-time \
+Linguagens & Tecnologias: `Golang` & `NodeJs` & `Docker`\
+<br/>
 
 [<img align="left" height="94px" width="168px" alt="Warpnet" src="https://mlv2vql2hzlv.i.optimole.com/w:auto/h:auto/q:mauto/https://www.enacom.com.br/wp-content/uploads/2021/01/Logo_Enacom.svg"/>](https://www.enacom.com.br)
 
@@ -35,7 +41,7 @@ Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs` & `Docker`\
 <br/>
 
 
-[<img align="left" height="94px" alt="Warpnet" src="https://luby.com.br/wp-content/uploads/elementor/thumbs/transformacao-digital-luby-logo-oficial-1-e1688569421772-q8yzkgz092cmr83q8i28xin8efgzkrtc8glxycjjcw.png"/>](https://luby.com.br/)
+[<img align="left" height="94px" alt="Warpnet" src="https://luby.co/wp-content/uploads/2023/03/Luby-Software-3.png"/>](https://luby.com.br/)
 
 **Backend Developer** \
 [**Luby Software**](https://luby.com.br/) • Full-time \
