@@ -26,12 +26,6 @@
 ### Experiência de trabalho
 Na visão abaixo você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://bankly.com.br/public/assets/images/logo.svg"/>](https://bankly.com.br/)
-**Backend Developer** \
-[**Housi**](https://bankly.com.br/) • Full-time \
-Linguagens & Tecnologias: `NodeJs` & `.NET` & `Docker`\
-<br/>
-
 [<img align="left" height="94px" width="168px" alt="Warpnet" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
 **Backend Developer** \
 [**Housi**](https://housi.com/) • Full-time \
