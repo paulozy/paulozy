@@ -26,13 +26,19 @@
 ### Experiência de trabalho
 Na visão abaixo você encontrará minhas experiências de trabalho mais recentes:
 
+[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://bankly.com.br/public/assets/images/logo.svg"/>](https://bankly.com.br/)
+**Backend Developer** \
+[**Housi**](https://bankly.com.br/) • Full-time \
+Linguagens & Tecnologias: `NodeJs` & `.NET` & `Docker`\
+<br/>
+
 [<img align="left" height="94px" width="168px" alt="Warpnet" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
 **Backend Developer** \
 [**Housi**](https://housi.com/) • Full-time \
 Linguagens & Tecnologias: `Golang` & `NodeJs` & `Docker`\
 <br/>
 
-[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://mlv2vql2hzlv.i.optimole.com/w:auto/h:auto/q:mauto/https://www.enacom.com.br/wp-content/uploads/2021/01/Logo_Enacom.svg"/>](https://www.enacom.com.br)
+[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://cryptoid.com.br/wp-content/uploads/2021/07/enacon-logo.png"/>](https://www.enacom.com.br)
 
 **Backend Developer** \
 [**Enacom**](https://www.enacom.com.br) • Full-time \
@@ -40,7 +46,7 @@ Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs` & `Docker`\
 <br/>
 
 
-[<img align="left" height="94px" alt="Warpnet" src="https://luby.co/wp-content/uploads/2023/03/Luby-Software-3.png"/>](https://luby.com.br/)
+[<img align="left" height="94px" alt="Warpnet" src="https://luby.com.br/wp-content/uploads/2023/03/transformacao-digital-logo-luby-azul-1-e1689084688948.png"/>](https://luby.com.br/)
 
 **Backend Developer** \
 [**Luby Software**](https://luby.com.br/) • Full-time \
