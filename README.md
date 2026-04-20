@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Typescript, Javascript && Golang</strong>
+  🦄 Linguagens: <strong>C#, Typescript && Golang</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NodeJs, Express, NestJs, React.js, Serverless & Docker</strong>
+  💼 Ferramentas: <strong>.NET, NodeJs, AWS, GCP & Docker</strong>
 </p>
 
 <p align="left">
@@ -19,31 +19,29 @@
 </p>
 
 <div>
- <a href = "mailto:pa.aabreu18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:dev.pa.aabreu18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-abreu-santana/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
 ### Experiência de trabalho
 Na visão abaixo você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
+[<img align="left" height="94px" width="168px" alt="Bankly Logo" src="https://bankly.com.br/public/assets/images/logo.svg"/>](https://bankly.com.br/)
 **Backend Developer** \
-[**Housi**](https://housi.com/) • Full-time \
-Linguagens & Tecnologias: `Golang` & `NodeJs` & `Docker`\
+[**Bankly**](https://bankly.com.br/) • Full-time \
+Linguagens & Tecnologias: `.NET` & `NodeJs`, `AWS`, `SQLServer`, `DynamoDB`, `Docker`\
 <br/>
 
-[<img align="left" height="94px" width="168px" alt="Warpnet" src="https://cryptoid.com.br/wp-content/uploads/2021/07/enacon-logo.png"/>](https://www.enacom.com.br)
+[<img align="left" height="94px" width="168px" alt="Housi Logo" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
+**Backend Developer** \
+[**Housi**](https://housi.com/) • Full-time \
+Linguagens & Tecnologias: `Golang` & `NodeJs`, `MongoDB`, `PostgreSQL`, `Docker`\
+<br/>
+
+[<img align="left" height="94px" width="168px" alt="Enacom Logo" src="https://cryptoid.com.br/wp-content/uploads/2021/07/enacon-logo.png"/>](https://www.enacom.com.br)
 
 **Backend Developer** \
 [**Enacom**](https://www.enacom.com.br) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs` & `Docker`\
-<br/>
-
-
-[<img align="left" height="94px" alt="Warpnet" src="https://luby.com.br/wp-content/uploads/2023/03/transformacao-digital-logo-luby-azul-1-e1689084688948.png"/>](https://luby.com.br/)
-
-**Backend Developer** \
-[**Luby Software**](https://luby.com.br/) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs`, `Serverless` & `Docker`\
 <br/>
 
