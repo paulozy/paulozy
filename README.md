@@ -26,22 +26,21 @@
 ### Experiência de trabalho
 Na visão abaixo você encontrará minhas experiências de trabalho mais recentes:
 
+[<img align="left" height="94px" width="168px" alt="Bankly Logo" src="https://cdn.guiademarcas.globo/capa_globo_corporativa_bf2z6hY.png"/>](https://globo.com/)
+**Backend Developer** \
+[**Bankly**](https://bankly.com.br/) • Full-time \
+Linguagens & Tecnologias: `NodeJs`, `AWS`, `SQLServer`, `DynamoDB`, `Docker`\
+<br/>
+
 [<img align="left" height="94px" width="168px" alt="Bankly Logo" src="https://bankly.com.br/public/assets/images/logo.svg"/>](https://bankly.com.br/)
 **Backend Developer** \
 [**Bankly**](https://bankly.com.br/) • Full-time \
 Linguagens & Tecnologias: `.NET` & `NodeJs`, `AWS`, `SQLServer`, `DynamoDB`, `Docker`\
 <br/>
 
-[<img align="left" height="94px" width="168px" alt="Housi Logo" src="https://investidor.housi.com.br/media/65b3bc698b80f101c9bfadfc/lg"/>](https://housi.com/)
+[<img align="left" height="94px" width="168px" alt="Housi Logo" src="https://portal.housi.com.br/media/6a160383e99ef5c215b290bf/md"/>](https://housi.com/)
 **Backend Developer** \
 [**Housi**](https://housi.com/) • Full-time \
 Linguagens & Tecnologias: `Golang` & `NodeJs`, `MongoDB`, `PostgreSQL`, `Docker`\
-<br/>
-
-[<img align="left" height="94px" width="168px" alt="Enacom Logo" src="https://cryptoid.com.br/wp-content/uploads/2021/07/enacon-logo.png"/>](https://www.enacom.com.br)
-
-**Backend Developer** \
-[**Enacom**](https://www.enacom.com.br) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `NodeJs` & `Docker`\
 <br/>
 
