@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, me chamo Paulo Abreu. Sou Desenvolvedor Fullstack 🚀 <br>
   
-  Apaixonado e habilidoso com uma sólida experiência em Node.js, React.js, TypeScript, Golang, AWS, Microserviços e Docker.
+  Desenvolvedir habilidoso com uma sólida experiência em Node.js, Golang, .NET, AWS/GCP, Microserviços e Docker, Soluções de Arquitetura.
 </p>
 
 <p align="left">
